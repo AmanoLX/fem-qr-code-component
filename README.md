@@ -24,7 +24,7 @@ Can someone explain to me how to include a screenshot in this README file? I'm s
 ### Links
 
 - Solution URL: https://github.com/AmanoLX/fem-qr-code-component
-- Live Site URL:https://sunny-fairy-a7d7f7.netlify.app/
+- Live Site URL: https://sunny-fairy-a7d7f7.netlify.app/
 
 ## My process
 
