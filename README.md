@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -24,7 +22,7 @@ Can someone explain to me how to include a screenshot in this README file? I'm s
 ### Links
 
 - Solution URL: https://github.com/AmanoLX/fem-qr-code-component
-- Live Site URL: https://whimsical-creponne-c3a859.netlify.app/
+- Live Site URL: https://fem-qr-card-component-by-mr.netlify.app/
 
 ## My process
 
